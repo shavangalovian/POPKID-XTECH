@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put the session-id here.",
       "required": true,
-      "value": ""
+      "value": "POPKID;;;HExEDITR#Y63ouFOe46zteWoMw-YXFINIAfgdrcWYL93BKuIwknM"
     },  
     
     "STICKER_NAME": {
@@ -79,7 +79,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY POPKID-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY PAPSY 🖤*"
    
      }, 
     
@@ -143,7 +143,7 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
